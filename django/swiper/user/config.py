@@ -1,0 +1,5 @@
+YZX_SID= "9d361f17547810db4fd06b125aec6d22"
+YZX_TOKEN= "8669b2d526aa5b31dddcf33349f34024"
+YZX_APP_ID= "0cc37d60bf1b4d7e849f47e79639696f"
+YZX_TEMPLATE_ID= "581067"
+YZX_URL='https://open.ucpaas.com/ol/sms/sendsms'
